@@ -33,15 +33,10 @@ Download
 Maven
 ```
 <dependency>
-  <groupId>com.akexorcist</groupId>
-  <artifactId>bluetoothspp</artifactId>
-  <version>1.0.0</version>
+  <groupId>Android-libs</groupId>
+  <artifactId>bluetooth-ssp</artifactId>
+  <version>1.0.0-SNAPSHOT</version>
 </dependency>
-```
-
-Gradle
-```
-compile 'com.akexorcist:bluetoothspp:1.0.0'
 ```
 
 
